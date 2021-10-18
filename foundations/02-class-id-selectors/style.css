@@ -1,0 +1,18 @@
+.bgFontClass {
+    background-color: #F08080;
+    font-family: Verdana, sans-serif;
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+#blueText {
+    color: #4169e1;
+    font-size: 36px;
+}
+
+#greenText {
+    color: #2e8b57;
+    font-weight: bold;
+}
